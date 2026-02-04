@@ -1,0 +1,21 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#2062
+    [34mall[39m: [
+      [34;4mApp\Models\Category[39;24m {#6493
+        [34mid[39m: [35m18[39m,
+        [34mname[39m: "[32mBreakfast[39m",
+        [34mdescription[39m: "[32mHello[39m",
+        [34mimage[39m: "[32mcategories/ZvdGIJJa2iZfY3pGRmyiVgycBVoNzGnnoM7cx1q8.png[39m",
+        [34mcreated_at[39m: "[32m2025-11-15 13:52:23[39m",
+        [34mupdated_at[39m: "[32m2025-11-15 13:52:23[39m",
+      },
+      [34;4mApp\Models\Category[39;24m {#6492
+        [34mid[39m: [35m19[39m,
+        [34mname[39m: "[32mQabuli Palow[39m",
+        [34mdescription[39m: "[32mQabuli cooked with olive oil[39m",
+        [34mimage[39m: "[32mcategories/CEvX7hBgLBsvDiKmEdxW8shkgNSPmVTP1dKF3ne1.png[39m",
+        [34mcreated_at[39m: "[32m2025-11-15 15:10:19[39m",
+        [34mupdated_at[39m: "[32m2025-11-15 15:10:19[39m",
+      },
+    ],
+  }
+
