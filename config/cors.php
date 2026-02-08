@@ -7,7 +7,7 @@ return [
 
     'allowed_origins' => [
     'http://localhost:5174',
-    'https://your-frontend.netlify.app',
+    'https://blueskyrestaurant.netlify.app/',
     'https://resturant-backend-1-t4bw.onrender.com', // Add your backend domain for forms/api
 ],
 
