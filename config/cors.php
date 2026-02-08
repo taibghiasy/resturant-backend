@@ -8,7 +8,7 @@ return [
     'allowed_origins' => [
     'http://localhost:5174',
     'https://blueskyrestaurant.netlify.app',
-    'https://resturant-backend-1-t4bw.onrender.com', // Add your backend domain for forms/api
+     // Add your backend domain for forms/api
 ],
 
     'allowed_headers' => ['*'],
